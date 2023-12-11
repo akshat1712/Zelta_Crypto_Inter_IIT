@@ -10,3 +10,5 @@ tqdm>=4.66.1
 pandas>=2.0.3
 numpy>=1.25.2
 seaborn>=0.12.2
+pmdarima>=2.0.4
+statsmodels>=0.14.0
